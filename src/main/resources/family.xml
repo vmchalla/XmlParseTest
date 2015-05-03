@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family>
+	<members>
+		<member type="family-head">
+			<name>C.V.Rao</name>
+			<age>67</age>
+			<occupation>retired-Enjoying Life</occupation>
+		</member>
+		<member type="wife">
+			<name>C.N.Mani</name>
+			<age>58</age>
+			<occupation>Home Maker takes care of C.V.Rao</occupation>
+		</member>
+		<member type="Daughter">
+			<name>C.H.Jyothi</name>
+			<age>33</age>
+			<occupation>Physician</occupation>
+		</member>
+		<member type="Son">
+			<name>C.V.Mohan</name>
+			<age>30</age>
+			<occupation>S/W Developer Writing this parser</occupation>
+		</member>
+	</members>
+</family>
